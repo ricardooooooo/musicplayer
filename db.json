@@ -1,7 +1,7 @@
 {
     "Songs": [
             {
-                "id":1,
+                "songId":1,
                 "name":"Self Care",
                 "artists":"Mac Miller",
                 "album":"Swimming",
@@ -11,7 +11,7 @@
                 "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Mac%20Miller%20-%20Self%20Care%20(Lyrics).mp3?alt=media&token=2b4d943b-7053-4c60-98fd-9a7eaffbda94"
             },
             {
-                "id":2,
+                "songId":2,
                 "name":"Come Back to Earth",
                 "artists":"Mac Miller",
                 "album":"Swimming",
@@ -21,7 +21,7 @@
                 "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Mac%20Miller%20-%20Come%20Back%20To%20Earth.mp3?alt=media&token=01303164-72e3-4050-a5fe-01ba18a59ca4"
             },
             {
-                "id":3,
+                "songId":3,
                 "name":"Closer",
                 "artists":"The Chainsmokers ft. Halsey",
                 "album":"Collage",
