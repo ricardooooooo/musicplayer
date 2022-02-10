@@ -52,7 +52,7 @@
                 "album":"Stoney",
                 "genre":"Hip-hop",
                 "cover":"https://m.media-amazon.com/images/I/91VAjJ6YxrL._AC_SL1500_.jpg",
-                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/White%20Iverson-%20Post%20Malone%20Lyric%20Video.mp3?alt=media&token=4075b038-9a1e-43fa-b4fc-c6594ae59b3c"
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/White%20Iverson-%20Post%20Malone%20Lyric%20Video.mp3?alt=media&token=4075b038-9a1e-43fa-b4fc-c6594ae59b3c"
             },
         {
                 "songId":7,
@@ -61,7 +61,7 @@
                 "album":"The Off-Season",
                 "genre":"Rap",
                 "cover":"https://m.media-amazon.com/images/I/51O79T3XIYS._SL1200_.jpg",
-                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/J.%20Cole%20-%20h%20u%20n%20g%20e%20r%20.%20o%20n%20.%20h%20i%20l%20l%20s%20i%20d%20e%20%20feat.%20Bas%20(Official%20Audio).mp3?alt=media&token=07155bdb-e2c9-4d84-ba0a-057a2a9fd359"
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/J.%20Cole%20-%20h%20u%20n%20g%20e%20r%20.%20o%20n%20.%20h%20i%20l%20l%20s%20i%20d%20e%20%20feat.%20Bas%20(Official%20Audio).mp3?alt=media&token=07155bdb-e2c9-4d84-ba0a-057a2a9fd359"
             },
         {
                 "songId":8,
@@ -70,7 +70,7 @@
                 "album":"AM",
                 "genre":"Indie rock",
                 "cover":"https://m.media-amazon.com/images/I/71hEtk3aCpL._AC_SL1500_.jpg",
-                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Arctic%20Monkeys%20-%20Do%20I%20Wanna%20Know%20(Official%20Video).mp3?alt=media&token=fe465e79-b079-4c62-b41d-7dbe07eb2fd4"
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Arctic%20Monkeys%20-%20Do%20I%20Wanna%20Know%20(Official%20Video).mp3?alt=media&token=fe465e79-b079-4c62-b41d-7dbe07eb2fd4"
             },
         {
                 "songId":9,
@@ -79,7 +79,7 @@
                 "album":"Melophobia",
                 "genre":"Indie rock",
                 "cover":"https://m.media-amazon.com/images/I/81xNYoFb8yL._SL1500_.jpg",
-                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Cigarette%20Daydreams%20-%20Cage%20the%20Elephant.mp3?alt=media&token=5ab49274-ab3f-4a8f-8bb7-c25cbe04e27d"
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Cigarette%20Daydreams%20-%20Cage%20the%20Elephant.mp3?alt=media&token=5ab49274-ab3f-4a8f-8bb7-c25cbe04e27d"
             }
         ],
     "Users":[
