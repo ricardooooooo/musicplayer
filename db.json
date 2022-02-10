@@ -26,6 +26,60 @@
                 "genre":"EDM",
                 "cover":"https://m.media-amazon.com/images/I/91OoRC7Q0lL._SL1500_.jpg",
                 "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/The%20Chainsmokers%20-%20Closer%20(Lyrics)%20ft.%20Halsey.mp3?alt=media&token=db4ef7e7-df6e-41ca-8b76-0ba15d0a7f93"
+            },
+          {
+                "songId":4,
+                "name":"Never Gonna Give You Up",
+                "artists":"Rick Astley",
+                "album":"Whenever You Need Somebody",
+                "genre":"Pop",
+                "cover":"https://images-na.ssl-images-amazon.com/images/I/71qVC8cybrL.jpg",
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up%20(Official%20Music%20Video).mp3?alt=media&token=f5533e42-0d4e-48be-af5e-4e497ef4889b"
+            },
+        {
+                "songId":5,
+                "name":"Almost Home",
+                "artists":"Mariah Carey",
+                "album":"Almost Home",
+                "genre":"Pop",
+                "cover":"https://i1.sndcdn.com/artworks-000087679924-h39338-t500x500.jpg",
+                "url":"https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Mariah%20Carey%20-%20Almost%20Home%20(Official%20Video).mp3?alt=media&token=8d8b2799-4688-41a0-a77f-992488541dea"
+            },
+        {
+                "songId":6,
+                "name":"White Iverson",
+                "artists":"Post Malone",
+                "album":"Stoney",
+                "genre":"Hip-hop",
+                "cover":"https://m.media-amazon.com/images/I/91VAjJ6YxrL._AC_SL1500_.jpg",
+                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/White%20Iverson-%20Post%20Malone%20Lyric%20Video.mp3?alt=media&token=4075b038-9a1e-43fa-b4fc-c6594ae59b3c"
+            },
+        {
+                "songId":7,
+                "name":"h u n g e r . o n . h i l l s i d e",
+                "artists":"J. Cole, Bas",
+                "album":"The Off-Season",
+                "genre":"Rap",
+                "cover":"https://m.media-amazon.com/images/I/51O79T3XIYS._SL1200_.jpg",
+                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/J.%20Cole%20-%20h%20u%20n%20g%20e%20r%20.%20o%20n%20.%20h%20i%20l%20l%20s%20i%20d%20e%20%20feat.%20Bas%20(Official%20Audio).mp3?alt=media&token=07155bdb-e2c9-4d84-ba0a-057a2a9fd359"
+            },
+        {
+                "songId":8,
+                "name":"Do I Wanna Know?",
+                "artists":"Arctic Monkeys",
+                "album":"AM",
+                "genre":"Indie rock",
+                "cover":"https://m.media-amazon.com/images/I/71hEtk3aCpL._AC_SL1500_.jpg",
+                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Arctic%20Monkeys%20-%20Do%20I%20Wanna%20Know%20(Official%20Video).mp3?alt=media&token=fe465e79-b079-4c62-b41d-7dbe07eb2fd4"
+            },
+        {
+                "songId":9,
+                "name":"Cigarette Daydreams",
+                "artists":"Cage the Elephant",
+                "album":"Melophobia",
+                "genre":"Indie rock",
+                "cover":"https://m.media-amazon.com/images/I/81xNYoFb8yL._SL1500_.jpg",
+                "url":="https://firebasestorage.googleapis.com/v0/b/music-c662f.appspot.com/o/Cigarette%20Daydreams%20-%20Cage%20the%20Elephant.mp3?alt=media&token=5ab49274-ab3f-4a8f-8bb7-c25cbe04e27d"
             }
         ],
     "Users":[
