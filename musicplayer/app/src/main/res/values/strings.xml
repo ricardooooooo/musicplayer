@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Your Music Finder</string>
+
+    <string name="edm">EDM</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="hiphop">Hip-hop</string>
+    <string name="indierock" translatable="false">Indie Rock</string>
+    <string name="pop" translatable="false">Pop</string>
+
+
+    <string name="info">Your music finder!\n\n\nYour music finder has the objective to help you finding newest releases by the biggest artists. Or even the older ones that you cant even remember the name. Do not worry, we are here to help you with that!</string>
+    <string name="songName" translatable="false">songName</string>
+    <string name="artistName" translatable="false">artistName</string>
+    <string name="albumName" translatable="false">albumName</string>
+    <string name="done">done</string>
+
+
+    <string name="songNamePlayer" translatable="false">songName</string>
+    <string name="artistNamePlayer" translatable="false">artistName</string>
+    <string name="albumNamePlayer" translatable="false">albumName</string>
+    <string name="register">Don\'t have an account? Register here! </string>
+    <string name="register1">Register </string>
+
+    <string name="hintEmail">Email </string>
+    <string name="hintPassword">Password </string>
+    <string name="hintName">Name </string>
+
+</resources>

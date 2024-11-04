@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Your Music Finder "</string>
+    <string name="edm" translatable="false">Electronic Dance</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="about" translatable="false">About</string>
+    <string name="hiphop" translatable="false">Hip-hop</string>
+    <string name="info" translatable="false">Your music finder!\n\n\nYour music finder has the objective to help you finding newest releases by the biggest artists. Or even the older ones that you cant even remember the name. Do not worry, we are here to help you with that!</string>
+    <string name="register" translatable="false">"Don't have an account? Register here! "</string>
+    <string name="hintEmail" translatable="false">Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="hintName">Name</string>
+    <string name="register1">Register</string>
+    <string name="done" translatable="false">done</string>
+</resources>

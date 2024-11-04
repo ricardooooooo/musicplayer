@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Encontrar Musicas</string>
+    <string name="edm" translatable="false">Eletrônica</string>
+    <string name="home" translatable="false">Início</string>
+    <string name="about" translatable="false">Sobre</string>
+    <string name="hiphop" translatable="false">Hip-hop</string>
+    <string name="info" translatable="false">O teu Procurador de Musicas!\n\n\nO teu Procurador de Musicas tem o objetivo de te ajudar não só a achar as mais recentes estreias musicais, como até mesmo achar aqueles singles que já nem te lembras do nome. Não te preocupes, estamos aqui para te ajudar a acha-los.</string>
+    <string name="register">Não tem uma conta? Efetue o registo aqui!</string>
+    <string name="hintEmail" translatable="false">Email</string>
+    <string name="hintPassword">Palavra-chave</string>
+    <string name="hintName">Nome</string>
+    <string name="register1">Resgistar</string>
+    <string name="done" translatable="false">feito</string>
+</resources>
